@@ -1,4 +1,4 @@
-Criado por Barbara Thomazelli today
+Criado por Barbara Thomazelli
 Curso fiapon
 
 Acesso ao Banco de Dados
